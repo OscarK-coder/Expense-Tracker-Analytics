@@ -5,8 +5,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 :root{
-  --color-yollow : #f9c74f;
-  --color-purple: #9d4edd;
+  --color-green : #4ff95a;
+  --color-pink: #f630a7;
 }
 
 * > *{
@@ -20,12 +20,13 @@
   padding: 4em 0;
 }
 
-.bg-yellow{
-  background-color: var(--color-yollow);
+
+.bg-green{
+  background-color: var(--color-green);
 }
 
-.bg-purple{
-  background-color: var(--color-purple);
+.bg-pink{
+  background-color: var(--color-pink);
 }
 
 .chart .title{
